@@ -9,6 +9,7 @@ This is the code for [this]() video on Youtube by Siraj Raval on Learning Blockc
 
 ## Week 1 (Cryptography):
 - https://www.coursera.org/learn/crypto
+- This is free book from the author: http://toc.cryptobook.us/
 
 ## Week 2 (Mastering Bitcoin + Annotated BTC Whitepaper + BTC wallet)
 - https://github.com/bitcoinbook/bitcoinbook
