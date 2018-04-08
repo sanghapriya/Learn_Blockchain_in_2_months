@@ -1,5 +1,5 @@
 # Learn_Blockchain_in_2_months
-This is the code for "Learn Blockchain in 2 Months" by Siraj Raval on Youtube 
+My plan to "Learn Blockchain in 2 Months" inspired from Siraj Raval
 
 
 ## Overview
