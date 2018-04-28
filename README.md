@@ -25,16 +25,16 @@ This is the code for [this]() video on Youtube by Siraj Raval on Learning Blockc
 - http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform#email-newsletter
 
 ## Week 5 (Solidity Programming + Ethereum articles):
-# Guide to learn solidity
+### Guide to learn solidity
 - https://cryptozombies.io/
-# Guide to set up truffle and ganache
+### Guide to set up truffle and ganache
 - https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e
 - https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269
 - https://hackernoon.com/ethereum-development-walkthrough-part-3-security-limitations-and-considerations-d482f05278b4
 - https://hackernoon.com/ethereum-development-walkthrough-part-4-tokens-and-ercs-68645cf2f73e
-# Guide to deploy a web application using truffle
+### Guide to deploy a web application using truffle
 - http://truffleframework.com/tutorials/building-testing-frontend-app-truffle-3
-# Blogs 
+### Blogs 
 - https://blockgeeks.com/?s=ethereum
 
 ## Week 6 (Other Cryptocurrencies):
